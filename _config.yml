@@ -33,10 +33,11 @@ github: [metadata]
 remote_theme: pages-themes/minimal@v0.2.0
 markdown: kramdown
 plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
