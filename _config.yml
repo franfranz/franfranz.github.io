@@ -24,7 +24,7 @@ description: My personal webpage
 baseurl: "/franfranz.github.io" # the subpath of your site, e.g. /blog
 #calurl: "/franfranz.github.io/fullCalendar.html" # the subpath of your site, e.g. /blog
 #permalink: "/:year/:month/:day/:title:output_ext"
-url: "http://franfranz.github.io"
+#url: "http://franfranz.github.io"
 github_username: franfranz
 github_owner: franfranz
 github: [metadata]
