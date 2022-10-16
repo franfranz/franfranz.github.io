@@ -27,13 +27,14 @@ baseurl: "/franfranz.github.io" # the subpath of your site, e.g. /blog
 #url: "http://franfranz.github.io"
 github_username: franfranz
 github_owner: franfranz
-github: [metadata]
+#github: [metadata]
 
 # Build settings
-remote_theme: pages-themes/leap-day@v0.2.0
+theme: minima
+#remote_theme: pages-themes/leap-day@v0.2.0
 markdown: kramdown
 plugins:
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-feed
   - jekyll-paginate
