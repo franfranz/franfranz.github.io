@@ -30,7 +30,7 @@ github_owner: franfranz
 github: [metadata]
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 markdown: kramdown
 plugins:
   - jekyll-feed
