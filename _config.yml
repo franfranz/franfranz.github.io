@@ -20,13 +20,21 @@
 
 title: Francesca Franzon
 email: francesca.franzon@upf.edu
-description: My personal webpage
+description: >+ # this means to ignore newlines until "baseurl:"
+  Post-doctoral researcher
+  at Universitat Pompeu Fabra
+
+logo: /assets/img/ff_foto.jpg
+show_downloads: false
+google_analytics:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://franfranz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: franfranz
 github_owner: franfranz
+
 github: [metadata]
+#  repository_url: https://github.com/franfranz/franfranz.github.io
 
 # Build settings
 #theme: minima
