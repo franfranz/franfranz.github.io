@@ -5,9 +5,12 @@
 <lastmod>2022-10-16T19:29:27+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/index_2.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/docs/SUPPORT.html</loc>
 </url>
 </urlset>
